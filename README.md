@@ -9,9 +9,7 @@
 ![JSON](https://img.shields.io/badge/storage-JSON-000000?style=flat\&logo=json\&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)           
                                                                                 
----                                                                             
-                                                                                
-**Project URL:** https://github.com/NarekMardoyan/Calculator                    
+---                   
                                                                                 
 </div>                                                                          
                                                                                 
