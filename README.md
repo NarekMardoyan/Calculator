@@ -5,9 +5,7 @@
 **A simple and intuitive desktop calculator built with Python and PySide6**     
                                                                                 
 [![Project URL](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/NarekMardoyan/Calculator)
-![Python](https://img.shields.io/badge/python-3.8+-3776AB?style=flat\&logo=python\&logoColor=white)
-![JSON](https://img.shields.io/badge/storage-JSON-000000?style=flat\&logo=json\&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat)           
+![Python](https://img.shields.io/badge/python-3.8+-3776AB?style=flat\&logo=python\&logoColor=white)       
                                                                               
 </div>                                                                                                                                                
                                                                                 
