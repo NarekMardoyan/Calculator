@@ -59,5 +59,3 @@
    ```bash                                                                      
    python Calculator.py                                                         
    ```                                                                          
-                                                                                
-### Recomended With White BackGround                                                                                                          
