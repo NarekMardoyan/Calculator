@@ -61,5 +61,3 @@
    ```                                                                          
                                                                                 
 ### Recomended With White BackGround                                                                                                          
-PySide6                                                                         
-```  
