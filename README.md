@@ -60,7 +60,6 @@
    python Calculator.py                                                         
    ```                                                                          
                                                                                 
-### Recomended With White BackGround                                         
-                                                                                                                 
+### Recomended With White BackGround                                                                                                          
 PySide6                                                                         
 ```  
