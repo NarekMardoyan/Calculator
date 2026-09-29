@@ -8,12 +8,8 @@
 ![Python](https://img.shields.io/badge/python-3.10+-3776AB?style=flat\&logo=python\&logoColor=white)
 ![JSON](https://img.shields.io/badge/storage-JSON-000000?style=flat\&logo=json\&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)           
-                                                                                
----                   
-                                                                                
-</div>                                                                          
-                                                                                
----                                                                             
+                                                                              
+</div>                                                                                                                                                
                                                                                 
 ### 🔗 Project Links                                                            
                                                                                 
